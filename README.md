@@ -4,5 +4,3 @@ Welcome to my repository for practicing **Data Structures and Algorithms (DSA)**
 
 ---
 
-## 📂 Folder Structure
-
