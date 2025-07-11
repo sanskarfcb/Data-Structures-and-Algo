@@ -2,7 +2,7 @@ package LinkedList;
 
 import java.lang.classfile.components.ClassPrinter;
 
-public class partionList {
+public class partitionList {
 
         public ClassPrinter.ListNode partition(ListNode head, int x) {
             ListNode lessX = new ListNode(0);
